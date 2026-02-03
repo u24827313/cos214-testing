@@ -7,5 +7,7 @@ int main(){
     int tell = 0;
     //idk what im doing
     //still dont know
+    //wow
+    std::cout << "Tell me something: ";
     return 0;
 }
